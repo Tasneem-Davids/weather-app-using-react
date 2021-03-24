@@ -1,0 +1,39 @@
+.Card {
+    width: 600px;
+    text-align: center;
+    border: blueviolet;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: darkslateblue;
+}
+
+.Degrees {
+    font-size: 150px;
+}
+
+.Weather {
+    font-size: 30px;
+    margin-top: -20px;
+}
+
+.City {
+    font-size: 35px;
+    margin-right: 180px;
+}
+
+.Time {
+    font-size: 17px;
+    margin-right: 180px;
+}
+
+.Icon {
+    width: 60px;
+}
+
+.Table {
+    margin-top: 60px;
+    width: 600px;
+    height: 70px;
+}
